@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Aviv-Zino-07-08-2021/static/css/main.c737e5b3.chunk.css",
+    "main.js": "/Aviv-Zino-07-08-2021/static/js/main.949dd10f.chunk.js",
+    "main.js.map": "/Aviv-Zino-07-08-2021/static/js/main.949dd10f.chunk.js.map",
+    "runtime-main.js": "/Aviv-Zino-07-08-2021/static/js/runtime-main.320e001b.js",
+    "runtime-main.js.map": "/Aviv-Zino-07-08-2021/static/js/runtime-main.320e001b.js.map",
+    "static/css/2.97503911.chunk.css": "/Aviv-Zino-07-08-2021/static/css/2.97503911.chunk.css",
+    "static/js/2.4c9519aa.chunk.js": "/Aviv-Zino-07-08-2021/static/js/2.4c9519aa.chunk.js",
+    "static/js/2.4c9519aa.chunk.js.map": "/Aviv-Zino-07-08-2021/static/js/2.4c9519aa.chunk.js.map",
+    "index.html": "/Aviv-Zino-07-08-2021/index.html",
+    "static/css/2.97503911.chunk.css.map": "/Aviv-Zino-07-08-2021/static/css/2.97503911.chunk.css.map",
+    "static/css/main.c737e5b3.chunk.css.map": "/Aviv-Zino-07-08-2021/static/css/main.c737e5b3.chunk.css.map",
+    "static/js/2.4c9519aa.chunk.js.LICENSE.txt": "/Aviv-Zino-07-08-2021/static/js/2.4c9519aa.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.320e001b.js",
+    "static/css/2.97503911.chunk.css",
+    "static/js/2.4c9519aa.chunk.js",
+    "static/css/main.c737e5b3.chunk.css",
+    "static/js/main.949dd10f.chunk.js"
+  ]
+}
